@@ -64,6 +64,7 @@ endmodule
 <img width="1920" height="1019" alt="epx 6 out" src="https://github.com/user-attachments/assets/10c6b899-1293-46a3-bcb8-1260ded77b14" />
 
 **TRUTH TABLE**
+
 <img width="544" height="275" alt="image" src="https://github.com/user-attachments/assets/6fa7011e-ae88-4021-8f5a-6cef38afbb80" />
 
 **RESULTS**
